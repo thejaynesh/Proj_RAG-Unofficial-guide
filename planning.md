@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I chose the domain of resumes and cover letters. Although there are many resources available, the information is often scattered across university guides and websites, making it difficult to navigate. My idea is to build a RAG system that combines these sources and provides users with clear answers and guidance while creating or improving their resumes and cover letters.
 
 ---
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Document | resume guide from harvard|"\documents\Resume-Guide-harvard.pdf" |
+| 2 | Document | resume guide from CMU |"\documents\Resume-Guide-cmu.pdf" |
+| 3 | Document | resume guide from GA Tech|"\documents\Resume-Guide-gatech.pdf" |
+| 4 | Document | resume guide from UCDavis|"\documents\Resume-Guide-ucdavis.pdf" |
+| 5 | Document | resume guide from Baruch College |"\documents\Resume-Guide-baruch.pdf" |
+| 6 | Document | resume guide from manhattan University|"\documents\Resume-Guide-manhattan.pdf" |
+| 7 | Document | resume guide from UConnect|"\documents\Resume-Guide-uconn.pdf" |
+| 8 | Document | resume guide from Univeristy of michigan|"\documents\Resume-Guide-umichigan.pdf" |
+| 9 | Document | resume example|"\documents\resume-example-1.pdf" |
+| 10 | Document | resume example|"\documents\resume-example-2.pdf" |
 
 ---
 
