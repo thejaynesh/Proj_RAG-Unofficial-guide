@@ -18,3 +18,4 @@ chroma/
 
 # macOS
 .DS_Store
+build_out.txt
