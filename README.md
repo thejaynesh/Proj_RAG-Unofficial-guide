@@ -3,6 +3,10 @@
 A retrieval-augmented (RAG) question-answering system for resume and cover-letter
 advice, grounded in 10 university career guides.
 
+## Demo
+
+**Video walkthrough :** [link](https://youtu.be/nzm4k_zOcj0)
+
 ## Quickstart
 
 ```powershell
@@ -271,7 +275,7 @@ honestly rather than tune it away.)
 
 - *What I gave the AI:* My Retrieval Approach section (MiniLM, top-k=5) and my
   grounding requirement (answer from retrieved context only, decline when
-  insufficient, attribute sources), asking it to implement embedding + ChromaDB
+  insufficient, attribute sources), asking it how to implement embedding + ChromaDB
   storage + a retrieval function, then connect retrieval to Groq.
 - *What it produced:* `retrieve.py` (embed + cosine ChromaDB store + `retrieve()`)
   and `generate.py` + `app.py` (grounded answer + Gradio UI).
